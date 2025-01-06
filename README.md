@@ -5,6 +5,7 @@ This project uses K-Means clustering to analyze historical gold prices and categ
 
 ## Dataset:
 The dataset used in this project is the "Gold Prices" dataset from Kaggle, which contains monthly gold price data from 1950 to 2020.
+https://www.kaggle.com/datasets/tunguz/gold-prices?select=annual_csv.csv
 
 ## Steps Involved:
 1. **Data Preprocessing**: 
